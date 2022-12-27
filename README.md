@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Grzegorz, React Front-end developer 🚀
+I'm Grzegorz, React Frontend developer 🚀
 
 - 🌱 I’m currently learning Node.js
 - ⚡ Fun fact: My dream is still to catch them all! 
