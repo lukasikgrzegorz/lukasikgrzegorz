@@ -5,6 +5,7 @@ I'm Grzegorz, beginner React Frontend developer 🚀
 - ⚡ Fun fact: My dream is still to catch them all! 
 - 👾 8-bit game lover
 - 🍝 Silent admirer of Italian food
+- 💚 I loVue 
 
 <br>
 
