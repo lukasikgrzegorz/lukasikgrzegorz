@@ -5,7 +5,8 @@ I'm Grzegorz, beginner Frontend developer 🚀
 - ⚡ Fun fact: My dream is still to catch them all! 
 - 👾 8-bit game lover
 - 🍝 Silent admirer of Italian food
-- 💚 I loVue 
+- 💥 I'm REACTive
+- 💚 I loVUE 
 
 <br>
 
