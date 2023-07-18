@@ -1,7 +1,6 @@
 ### Hi there 👋
 I'm Grzegorz, Junior Frontend Developer/Web Developer 🚀
 
-- 🌱 I’m currently learning Node.js
 - ⚡ Fun fact: My dream is still to catch them all! 
 - 👾 8-bit game lover
 - 🍝 Silent admirer of Italian food
