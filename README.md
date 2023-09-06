@@ -29,5 +29,5 @@ I'm Grzegorz, Junior Frontend Developer/Web Developer 🚀
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lukasikgrzegorz&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=lukasikgrzegor&&style=flat-square" align="center" />
 </div>  
