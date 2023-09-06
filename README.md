@@ -22,12 +22,3 @@ I'm Grzegorz, Junior Frontend Developer/Web Developer 🚀
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="75"></a>
 </div>  
 
-<br>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lukasikgrzegorz&theme=transparent"/></div> 
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lukasikgrzegor&&style=flat-square" align="center" />
-</div>  
